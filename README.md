@@ -1,2 +1,2 @@
-# repo-proj-rishu
+ repo-proj-rishu
 its a cardstore management project.
