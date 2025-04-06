@@ -36,4 +36,4 @@ Download apk file in Release page
 | nv204@gmail.com | minhminh |
 | nv102@gmail.com | minhminh |
 
-## This project is used for Software Engineering End Term Project in UEH University, please dont copy and fork this project
+## This project is used for Software Engineering End Term Project in UEH University, please dont copy and fork this projectkkkkkkkkkkk
